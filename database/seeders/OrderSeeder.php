@@ -14,7 +14,8 @@ class OrderSeeder extends Seeder
     public function run(): void
     {
         $orders = [
-            
+            'user_name' => 'Ada',
+            'menu_id' => 6
         ];
 
         Order::insert($orders);

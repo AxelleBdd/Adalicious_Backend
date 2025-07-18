@@ -10,8 +10,7 @@ class Order extends Model
     protected $fillable = [
         'id',
         'user_name',
-        'menu_id',
-        'status'
+        'menu_id'
     ];
 
     public function menu(): BelongsTo
