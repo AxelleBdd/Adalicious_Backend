@@ -1,7 +1,7 @@
 ># 🎓 KATA
 >
->⏲️ Time : 4 hour
->⌛ Split between the Frontend and the Backend
+>⏲️ Time : 4 hour <br>
+>⌛ Split between the Frontend and the Backend <br>
 >🔙 This is the backend part.
 >
 
